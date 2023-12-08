@@ -1,2 +1,2 @@
-# Image_Generator
-This Python script generates a random abstract image filled with colored squares using NumPy and Matplotlib.
+# checkboard_pattern
+The checkerboard pattern is created by taking the sine of the x and y coordinates and multiplying them together.
